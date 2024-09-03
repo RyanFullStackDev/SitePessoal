@@ -1,0 +1,18 @@
+$base-color: #2940ef;
+$btn-color: #49c0c0;
+
+.bg-base {
+  background-color: $base-color;
+}
+
+.botao-cabecalho {
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+}
+
+.vl {
+  border-left: 1px solid white;
+  height: 60px;
+}
